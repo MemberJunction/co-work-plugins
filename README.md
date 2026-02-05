@@ -1,22 +1,22 @@
-# MemberJunction Cowork Plugins
+# Sidecar Cowork Plugins
 
-**AI-powered tools for associations, developers, and the communities they serve.**
+**AI-powered tools for associations and the communities they serve.**
 
-[![MemberJunction](https://img.shields.io/badge/Powered%20by-MemberJunction-blue)](https://github.com/MemberJunction/MJ)
+[![Sidecar](https://img.shields.io/badge/Powered%20by-Sidecar-orange)](https://sidecar.ai)
 [![License: ISC](https://img.shields.io/badge/License-ISC-green.svg)](https://opensource.org/licenses/ISC)
 
 ---
 
 ## Our Mission
 
-We believe that **every association deserves access to expert-level tools**, regardless of their size or budget. Trade associations, professional societies, chambers of commerce, and nonprofit organizations do vital work connecting communities, advancing professions, and advocating for important causes.
+We believe that **every association deserves access to expert-level tools**, regardless of their size or budget. Professional societies, trade associations, enthusiast clubs, fraternal organizations, chambers of commerce, and nonprofit organizations do vital work connecting communities, advancing professions, and advocating for important causes.
 
 This repository provides **free, open-source Claude Cowork plugins** that encode decades of association management best practices into AI-powered tools anyone can use. No infrastructure required. No vendor lock-in. Just immediate value.
 
 ```mermaid
 flowchart LR
     subgraph "Free Standalone Value"
-        A[Association Professional] --> B[Cowork Plugin]
+        A[Association Professional] --> B[Sidecar Cowork Plugin]
         B --> C[Expert-Quality Output]
     end
 
@@ -38,7 +38,7 @@ flowchart LR
 
 | Plugin | Description | Status |
 |--------|-------------|--------|
-| [**Association Management**](./association-management/) | 16 commands + 12 skills for trade associations, professional societies, chambers of commerce, and nonprofits | ✅ Ready |
+| [**Sidecar Association Coworker**](./association-management/) | 16 commands + 12 skills for all types of associations | ✅ Ready |
 | **MJ Admin/Developer** | Tools for MemberJunction developers - entity queries, migrations, codegen | 🚧 Planned |
 | **MJ Agent Builder** | Create, test, and iterate on MJ AI agents through Cowork | 🚧 Planned |
 
@@ -57,14 +57,14 @@ plugin-name/
 │   ├── command-one.md
 │   └── command-two.md
 ├── skills/              # Domain knowledge (markdown expertise)
-│   ├── skill-one.md
-│   └── skill-two.md
+│   └── skill-name/
+│       └── SKILL.md
 └── README.md            # Plugin documentation
 ```
 
 ```mermaid
 flowchart TB
-    subgraph Plugin["Cowork Plugin"]
+    subgraph Plugin["Sidecar Cowork Plugin"]
         Commands["📋 Slash Commands<br/><i>User-invoked actions</i>"]
         Skills["🧠 Skills<br/><i>Domain knowledge</i>"]
         MCP["🔌 MCP Connectors<br/><i>External integrations</i>"]
@@ -97,12 +97,12 @@ flowchart TB
 
 ## Getting Started
 
-### 1. Install a Plugin
+### 1. Add the Marketplace
 
-In Claude Cowork, add the plugin from this repository:
+In Claude Cowork, add the Sidecar plugin marketplace:
 
 ```
-https://github.com/MemberJunction/co-work-plugins/association-management
+https://raw.githubusercontent.com/MemberJunction/co-work-plugins/main/.claude-plugin/marketplace.json
 ```
 
 ### 2. Use Slash Commands
@@ -175,9 +175,13 @@ Yet many associations struggle with limited staff, tight budgets, and overwhelmi
 
 ---
 
+## About Sidecar
+
+[Sidecar](https://sidecar.ai) is pioneering AI innovation in the association space, helping associations leverage artificial intelligence to better serve their members and advance their missions.
+
 ## About MemberJunction
 
-These plugins are created by **[MemberJunction](https://github.com/MemberJunction/MJ)**, an open-source, metadata-driven application development platform designed for associations and member-based organizations.
+The technical foundation for these plugins is provided by **[MemberJunction](https://github.com/MemberJunction/MJ)**, an open-source, metadata-driven application development platform designed for associations and member-based organizations.
 
 MemberJunction provides:
 - 🏗️ **Unified Data Platform** - 100+ TypeScript packages for modern association technology
@@ -208,17 +212,9 @@ This project is licensed under the **ISC License** - see the [LICENSE](./LICENSE
 
 ---
 
-## Acknowledgments
-
-- **[Sidecar](https://www.sidecar.ai/)** - For pioneering AI innovation in the association space and inspiring this work
-- **[Anthropic](https://www.anthropic.com/)** - For Claude and the Cowork platform
-- **The Association Community** - For the inspiration to build these tools
-
----
-
 <p align="center">
-  <b>Built with ❤️ for the association community</b><br/>
+  <b>Powered by <a href="https://sidecar.ai">Sidecar</a></b> — AI for Associations<br/><br/>
+  <a href="https://sidecar.ai">Sidecar</a> ·
   <a href="https://github.com/MemberJunction/MJ">MemberJunction</a> ·
-  <a href="https://github.com/MemberJunction/co-work-plugins/issues">Issues</a> ·
-  <a href="https://github.com/MemberJunction/co-work-plugins/discussions">Discussions</a>
+  <a href="https://github.com/MemberJunction/co-work-plugins/issues">Issues</a>
 </p>

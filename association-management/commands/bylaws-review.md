@@ -257,3 +257,7 @@ Create comparison document showing:
 ```
 
 Conducts a comprehensive bylaws review for a Delaware 501(c)(6) organization with focus on modernizing virtual meeting provisions, implementing board term limits, and restructuring membership categories.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

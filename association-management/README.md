@@ -1,17 +1,23 @@
-# Association Management Plugin
+# Sidecar Association Coworker
 
-AI-powered tools for trade associations, professional societies, chambers of commerce, standards bodies, and alumni organizations.
+**AI-powered tools for all types of associations** — brought to you by [Sidecar](https://sidecar.ai)
+
+[![Sidecar](https://img.shields.io/badge/Powered%20by-Sidecar-orange)](https://sidecar.ai)
+
+---
 
 ## Overview
 
-This Claude Cowork plugin provides slash commands and domain expertise for managing associations effectively. It works standalone without any infrastructure requirements, delivering immediate value for association professionals.
+Sidecar Association Coworker is a Claude Cowork plugin that provides slash commands and domain expertise for managing associations effectively. It works standalone without any infrastructure requirements, delivering immediate value for association professionals.
+
+Built for professional societies, trade associations, enthusiast clubs, fraternal organizations, chambers of commerce, standards bodies, alumni groups, and more.
 
 ## Installation
 
-Install this plugin in Claude Cowork by adding the repository:
+Install this plugin in Claude Cowork by adding the marketplace:
 
 ```
-https://github.com/MemberJunction/co-work-plugins/association-management
+https://raw.githubusercontent.com/MemberJunction/co-work-plugins/main/.claude-plugin/marketplace.json
 ```
 
 ## Features
@@ -62,7 +68,7 @@ This plugin follows the Claude Cowork standard structure:
 association-management/
 ├── .claude-plugin/
 │   └── plugin.json      # Plugin metadata
-├── .mcp.json            # MCP server integrations (empty for standalone)
+├── .mcp.json            # MCP server integrations
 ├── commands/            # 16 slash commands
 │   └── *.md
 └── skills/              # 12 domain knowledge areas
@@ -112,9 +118,9 @@ When connected to MemberJunction via MCP Server:
 - Event registration data
 - Real-time analytics
 
-## Contributing
+## About Sidecar
 
-This plugin is part of the MemberJunction Cowork Plugins monorepo. Contributions are welcome via pull request.
+[Sidecar](https://sidecar.ai) is pioneering AI innovation in the association space, helping associations leverage artificial intelligence to better serve their members and advance their missions.
 
 ## License
 
@@ -123,4 +129,10 @@ ISC License - See LICENSE file for details.
 ## Support
 
 - Issues: https://github.com/MemberJunction/co-work-plugins/issues
-- Documentation: https://memberjunction.org/docs
+- Sidecar: https://sidecar.ai
+
+---
+
+<p align="center">
+  <b>Powered by <a href="https://sidecar.ai">Sidecar</a></b> — AI for Associations
+</p>

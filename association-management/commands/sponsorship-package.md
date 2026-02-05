@@ -235,3 +235,7 @@ Sponsor value report including:
 ```
 
 Creates a complete sponsorship package for an annual conference targeting healthcare technology vendors.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

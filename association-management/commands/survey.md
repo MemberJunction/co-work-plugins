@@ -299,3 +299,7 @@ Create scientifically-sound survey instruments:
 ```
 
 Creates a comprehensive annual member satisfaction survey with benchmarking capabilities.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

@@ -101,3 +101,7 @@ Deliver materials in requested format:
 ```
 
 This generates a complete corporate member onboarding package tailored to a premium healthcare industry member interested in advocacy and education programs.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

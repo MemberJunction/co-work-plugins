@@ -209,3 +209,7 @@ Comprehensive operational checklist:
 ```
 
 Generates complete planning framework for a large hybrid annual conference.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

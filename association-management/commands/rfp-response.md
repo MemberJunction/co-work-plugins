@@ -282,3 +282,7 @@ Create winning proposal responses:
 ```
 
 Creates a comprehensive RFP response strategy and proposal framework for a government workforce development contract.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

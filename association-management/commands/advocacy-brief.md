@@ -169,3 +169,7 @@ When using search capabilities:
 ```
 
 Creates an issue brief opposing portions of proposed state licensing requirements with specific amendment recommendations.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*
