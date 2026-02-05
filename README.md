@@ -210,7 +210,7 @@ This project is licensed under the **ISC License** - see the [LICENSE](./LICENSE
 
 ## Acknowledgments
 
-- **[ASAE](https://www.asaecenter.org/)** - For decades of association management research and best practices
+- **[Sidecar](https://www.sidecar.ai/)** - For pioneering AI innovation in the association space and inspiring this work
 - **[Anthropic](https://www.anthropic.com/)** - For Claude and the Cowork platform
 - **The Association Community** - For the inspiration to build these tools
 
