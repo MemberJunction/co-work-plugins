@@ -1,0 +1,26 @@
+{
+  "name": "Association Management",
+  "id": "mj-association-management",
+  "version": "1.0.0",
+  "description": "AI-powered tools for trade associations, professional societies, chambers of commerce, standards bodies, and alumni organizations. Provides slash commands and domain expertise for membership lifecycle, governance, events, communications, advocacy, and more.",
+  "author": "MemberJunction",
+  "homepage": "https://github.com/MemberJunction/co-work-plugins",
+  "repository": "https://github.com/MemberJunction/co-work-plugins",
+  "license": "ISC",
+  "keywords": [
+    "association",
+    "membership",
+    "nonprofit",
+    "governance",
+    "events",
+    "advocacy",
+    "professional-society",
+    "chamber-of-commerce",
+    "trade-association"
+  ],
+  "categories": [
+    "productivity",
+    "business",
+    "nonprofit"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "brave-search": {
+      "command": "npx",
+      "args": ["-y", "@anthropic/mcp-brave-search"],
+      "env": {
+        "BRAVE_API_KEY": "${BRAVE_API_KEY}"
+      },
+      "description": "Web search for researching industry trends, peer organizations, best practices, and current events relevant to your association"
+    },
+    "fetch": {
+      "command": "npx",
+      "args": ["-y", "@anthropic/mcp-fetch"],
+      "description": "Fetch and analyze web content - useful for reviewing peer association websites, industry publications, and reference materials"
+    },
+    "memory": {
+      "command": "npx",
+      "args": ["-y", "@anthropic/mcp-memory"],
+      "description": "Persistent memory for storing association-specific context, preferences, member insights, and historical decisions"
+    }
+  }
+}
