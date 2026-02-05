@@ -1,8 +1,8 @@
 {
-  "name": "association-management",
+  "name": "sidecar-association-coworker",
   "version": "1.0.0",
-  "description": "AI-powered tools for all types of associations—professional societies, trade associations, enthusiast clubs, fraternal organizations, chambers of commerce, standards bodies, alumni groups, and more. Provides slash commands and domain expertise for membership lifecycle, governance, events, communications, advocacy, and beyond.",
+  "description": "Sidecar Association Coworker — AI-powered tools for all types of associations: professional societies, trade associations, enthusiast clubs, fraternal organizations, chambers of commerce, standards bodies, alumni groups, and more. Provides slash commands and domain expertise for membership lifecycle, governance, events, communications, advocacy, and beyond.",
   "author": {
-    "name": "MemberJunction"
+    "name": "Sidecar"
   }
 }

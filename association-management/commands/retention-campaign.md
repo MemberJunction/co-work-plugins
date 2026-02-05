@@ -230,3 +230,7 @@ Track and measure:
 ```
 
 Creates a multi-channel renewal campaign for professional tier members renewing in Q4.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

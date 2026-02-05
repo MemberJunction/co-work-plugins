@@ -262,3 +262,7 @@ Generate comprehensive committee governance documents:
 ```
 
 Creates a charter for a standing professional development committee with appropriate governance structure.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

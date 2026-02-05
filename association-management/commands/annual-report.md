@@ -263,3 +263,7 @@ Key metrics to include:
 ```
 
 Creates a comprehensive annual report with print, digital, and interactive versions themed around forward-looking progress.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

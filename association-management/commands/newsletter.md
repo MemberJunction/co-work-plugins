@@ -143,3 +143,7 @@ Include tracking recommendations:
 ```
 
 Creates a monthly newsletter focused on building excitement for the upcoming annual conference.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

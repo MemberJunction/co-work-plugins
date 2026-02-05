@@ -325,3 +325,7 @@ Guide and document strategic planning processes:
 ```
 
 Facilitates a complete 5-year strategic planning process with agile approach, focused on three priority areas with comprehensive stakeholder engagement.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

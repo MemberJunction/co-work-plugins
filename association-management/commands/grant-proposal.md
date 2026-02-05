@@ -203,3 +203,7 @@ Professional cover letter including:
 ```
 
 Creates a foundation grant proposal for a two-year scholarship program.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

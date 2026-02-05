@@ -127,3 +127,7 @@ Prepare:
 ```
 
 Generates complete board packet for a 3-hour hybrid meeting focused on budget approval and strategic plan review.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*

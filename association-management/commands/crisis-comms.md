@@ -318,3 +318,7 @@ Prepare for and manage crisis communications:
 ```
 
 Develops a comprehensive crisis communication plan covering cyber incidents, reputational threats, and leadership crises with multi-stakeholder protocols.
+
+---
+
+*Powered by [Sidecar](https://sidecar.ai) — AI for Associations*
