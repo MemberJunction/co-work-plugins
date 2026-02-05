@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "association-management",
-      "description": "AI-powered tools for trade associations, professional societies, chambers of commerce, standards bodies, and alumni organizations. Provides slash commands and domain expertise for membership lifecycle, governance, events, communications, advocacy, and more.",
+      "description": "AI-powered tools for all types of associations—professional societies, trade associations, enthusiast clubs, fraternal organizations, chambers of commerce, standards bodies, alumni groups, and more. Provides slash commands and domain expertise for membership lifecycle, governance, events, communications, advocacy, and beyond.",
       "source": "./association-management"
     }
   ]
