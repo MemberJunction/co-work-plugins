@@ -54,13 +54,21 @@ The plugin includes comprehensive expertise in:
 11. **Metrics & Analytics** - KPIs, benchmarking, and data-driven decisions
 12. **Communications & Marketing** - Branding, marketing, PR, and member communications
 
-## MCP Server Integrations
+## Plugin Structure
 
-This plugin recommends the following MCP servers for enhanced functionality:
+This plugin follows the Claude Cowork standard structure:
 
-- **brave-search** - Research industry trends, peer organizations, and best practices
-- **fetch** - Analyze peer association websites and reference materials
-- **memory** - Store association-specific context and historical decisions
+```
+association-management/
+├── .claude-plugin/
+│   └── plugin.json      # Plugin metadata
+├── .mcp.json            # MCP server integrations (empty for standalone)
+├── commands/            # 16 slash commands
+│   └── *.md
+└── skills/              # 12 domain knowledge areas
+    └── skill-name/
+        └── SKILL.md
+```
 
 ## Usage Examples
 
