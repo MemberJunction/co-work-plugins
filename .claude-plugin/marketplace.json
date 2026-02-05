@@ -1,0 +1,13 @@
+{
+  "name": "co-work-plugins",
+  "owner": {
+    "name": "MemberJunction"
+  },
+  "plugins": [
+    {
+      "name": "association-management",
+      "description": "AI-powered tools for trade associations, professional societies, chambers of commerce, standards bodies, and alumni organizations. Provides slash commands and domain expertise for membership lifecycle, governance, events, communications, advocacy, and more.",
+      "source": "./association-management"
+    }
+  ]
+}
