@@ -124,7 +124,7 @@ When connected to MemberJunction via MCP Server:
 
 ## License
 
-ISC License - See LICENSE file for details.
+Business Source License 1.1 — see [LICENSE](../LICENSE) for details.
 
 ## Support
 
