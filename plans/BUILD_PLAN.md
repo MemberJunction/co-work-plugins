@@ -235,7 +235,7 @@ Some of these can be accomplished through the existing entity CRUD tools (queryi
 
 ### Vision
 
-A **free, open-source Cowork plugin** published by the MJ team that helps anyone working in the association/membership organization space. It works entirely standalone using Claude's built-in capabilities (web search, document analysis, writing). When connected to MemberJunction, it unlocks direct data access, automated workflows, and agent-powered member services.
+A **free, source-available Cowork plugin** published by the MJ team that helps anyone working in the association/membership organization space. It works entirely standalone using Claude's built-in capabilities (web search, document analysis, writing). When connected to MemberJunction, it unlocks direct data access, automated workflows, and agent-powered member services.
 
 This positions MJ as a thought leader in the association tech space and creates a natural on-ramp to the full platform.
 

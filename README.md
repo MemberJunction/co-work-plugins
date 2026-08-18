@@ -3,7 +3,7 @@
 **AI-powered tools for associations and the communities they serve.**
 
 [![Sidecar](https://img.shields.io/badge/Powered%20by-Sidecar-orange)](https://sidecar.ai)
-[![License: ISC](https://img.shields.io/badge/License-ISC-green.svg)](https://opensource.org/licenses/ISC)
+[![License: BUSL-1.1](https://img.shields.io/badge/License-BUSL--1.1-blue.svg)](./LICENSE)
 
 ---
 
@@ -11,7 +11,7 @@
 
 We believe that **every association deserves access to expert-level tools**, regardless of their size or budget. Professional societies, trade associations, enthusiast clubs, fraternal organizations, chambers of commerce, and nonprofit organizations do vital work connecting communities, advancing professions, and advocating for important causes.
 
-This repository provides **free, open-source Claude Cowork plugins** that encode decades of association management best practices into AI-powered tools anyone can use. No infrastructure required. No vendor lock-in. Just immediate value.
+This repository provides **free, source-available Claude Cowork plugins** that encode decades of association management best practices into AI-powered tools anyone can use. No infrastructure required. No vendor lock-in. Just immediate value.
 
 ```mermaid
 flowchart LR
@@ -181,7 +181,7 @@ Yet many associations struggle with limited staff, tight budgets, and overwhelmi
 
 ## About MemberJunction
 
-The technical foundation for these plugins is provided by **[MemberJunction](https://github.com/MemberJunction/MJ)**, an open-source, metadata-driven application development platform designed for associations and member-based organizations.
+The technical foundation for these plugins is provided by **[MemberJunction](https://github.com/MemberJunction/MJ)**, a metadata-driven application development platform designed for associations and member-based organizations.
 
 MemberJunction provides:
 - 🏗️ **Unified Data Platform** - 100+ TypeScript packages for modern association technology
@@ -208,7 +208,7 @@ See our [Contributing Guide](./CONTRIBUTING.md) for details.
 
 ## License
 
-This project is licensed under the **ISC License** - see the [LICENSE](./LICENSE) file for details.
+Business Source License 1.1 — see [LICENSE](./LICENSE) for details.
 
 ---
 
